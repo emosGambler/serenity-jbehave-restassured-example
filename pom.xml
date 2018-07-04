@@ -22,6 +22,11 @@
             <version>1.5.8</version>
             <scope>test</scope>
         </dependency>
+        <dependency>
+            <groupId>net.serenity-bdd</groupId>
+            <artifactId>serenity-rest-assured</artifactId>
+            <version>1.5.8</version>
+        </dependency>
     </dependencies>
 
     <build>
